@@ -1,5 +1,4 @@
 HTTP Server Project
-CS273, Operating Systems
 
 Bidit Sharma 4/17/2018
 
@@ -25,7 +24,7 @@ Logs:
 
 
 
-==Extra Features==
+==Some Features==
 
 Handling of HEAD method:
 - The server handles HEAD HTTP request - it only sends the header and filesize information of the file requested using HEAD
